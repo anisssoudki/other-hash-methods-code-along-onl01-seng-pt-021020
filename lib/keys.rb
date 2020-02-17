@@ -12,8 +12,8 @@ def get_the_keys(groceries)
   #code your solution here!
   
   groceries.keys
-  groceries.values.flatten
-  groceries.values.flatten.min
+  # groceries.values.flatten
+  # groceries.values.flatten.min
   
   
   
